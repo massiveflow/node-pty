@@ -46,14 +46,14 @@
     "nan": "^2.17.0"
   },
   "devDependencies": {
-    "@types/mocha": "^7.0.2",
-    "@types/node": "12",
-    "@typescript-eslint/eslint-plugin": "^2.27.0",
-    "@typescript-eslint/parser": "^2.27.0",
-    "cross-env": "^5.1.4",
-    "eslint": "^6.8.0",
-    "mocha": "^7.1.1",
-    "ps-list": "^6.0.0",
-    "typescript": "^3.8.3"
+    "@types/mocha": "^10.0.0",
+    "@types/node": "^18.11.19",
+    "@typescript-eslint/eslint-plugin": "^5.43.0",
+    "@typescript-eslint/parser": "^5.43.0",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.28.0",
+    "mocha": "^10.1.0",
+    "ps-list": "^8.1.0",
+    "typescript": "^4.9.3"
   }
 }
